@@ -12,6 +12,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Running build scripts...
+      - echo ========
       # Thêm lệnh build ở đây nếu có
 
 artifacts:
